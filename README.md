@@ -19,9 +19,9 @@ I love the entire process of developing a creative mobile app. I love the challe
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
+- kotlin
 - Firebase
-- React Context API
+- Foreground Services in Flutter
 - Styled Components  
 
 ## 💼 Technical Skills
